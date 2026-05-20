@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About me
+title: about
 permalink: /
-subtitle: "You see, but you do not observe." <it>Sherlock Holmes</it>
+subtitle: "You see, but you do not observe." Sherlock Holmes
 
 profile:
   align: right
