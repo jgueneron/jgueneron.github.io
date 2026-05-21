@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about
+permalink: /about/
 subtitle: "You see, but you do not observe." Sherlock Holmes
 
 profile:
